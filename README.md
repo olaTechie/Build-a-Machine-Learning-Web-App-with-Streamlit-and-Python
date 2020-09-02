@@ -14,4 +14,5 @@ Creating a machine learning web application with the Python Streamlit library.
 - Training a Support Vector Classifier II,
 - Train a Logistic Regression Classifier,
 - Training a Random Forest Classifier.
+
 ![aa](https://user-images.githubusercontent.com/65929471/89193696-c1a99980-d57c-11ea-86d3-9ae0796bf046.gif)
